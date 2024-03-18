@@ -1,4 +1,4 @@
-SET UP OF BASIC GRADLE USING COMMAND LINE INTERFACE :
+SET UP OF BASIC GRADLE  PROJECT USING COMMAND LINE INTERFACE :
 
 --step1 
 	gradle init --use-defaults --type java-application
